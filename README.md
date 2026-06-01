@@ -47,7 +47,7 @@ hussin.setLocation("Deutschland-Hessen");
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,angular,mysql,docker,azure,idea,webstorm,vscode,jenkins,git,github,html,js,nodejs,bootstrap,notion&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,angular,mysql,docker,azure,idea,webstorm,vscode,jenkins,git,github,html,js,bootstrap,notion&theme=dark" />
 
 </div>
 
